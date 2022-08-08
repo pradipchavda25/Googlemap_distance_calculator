@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Googlemap_distance_calculator/static/css/main.fbe86c59.css",
+    "main.js": "/Googlemap_distance_calculator/static/js/main.5c25e34f.js",
+    "static/js/787.719ec76d.chunk.js": "/Googlemap_distance_calculator/static/js/787.719ec76d.chunk.js",
+    "static/media/logo.png": "/Googlemap_distance_calculator/static/media/logo.6c40da9f8ce04e927de3.png",
+    "index.html": "/Googlemap_distance_calculator/index.html",
+    "main.fbe86c59.css.map": "/Googlemap_distance_calculator/static/css/main.fbe86c59.css.map",
+    "main.5c25e34f.js.map": "/Googlemap_distance_calculator/static/js/main.5c25e34f.js.map",
+    "787.719ec76d.chunk.js.map": "/Googlemap_distance_calculator/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe86c59.css",
+    "static/js/main.5c25e34f.js"
+  ]
+}
